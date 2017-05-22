@@ -2,6 +2,8 @@
 # Липкие панели
 Липкие панели на js
 
+!(example-image.jpg "An exemplary image")
+
 # Примеры
 ### demo1.html
 ### demo2.html
