@@ -15,6 +15,7 @@
 
 # Использование
 
+html
 ```html
 <div data-he="one">Test header</div>
 <div data-co="one">Test content</div>
@@ -22,6 +23,7 @@
 <div data-co="two">Test content</div>
 ```
 
+javaScript
 ```javascript
 var options = {
   header: 'data-he', // Липкие панели
