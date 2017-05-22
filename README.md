@@ -6,10 +6,13 @@
 Подключить скрипт из assets/scripts/stiky.js
 
 ## Использоввание
+
+```html
 <div data-he="one">Test header</div>
 <div data-co="one">Test content</div>
 <div data-he="two">Test header</div>
 <div data-co="two">Test content</div>
+```
 
 ```javascript
 var options = {
