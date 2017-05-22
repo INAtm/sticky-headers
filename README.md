@@ -2,10 +2,18 @@
 # Липкие панели
 Липкие панели на js
 
+# Примеры
+### demo1.html
+### demo2.html
+
 # Установка
 Подключить скрипт из assets/scripts/stiky.js
 
-## Использование
+```html
+<script src="assets/scripts/stiky.js"></script>
+```
+
+# Использование
 
 ```html
 <div data-he="one">Test header</div>
