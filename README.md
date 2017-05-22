@@ -2,7 +2,7 @@
 # Липкие панели
 Липкие панели на js
 
-!(example-image.jpg "An exemplary image")
+![example image](example-image.jpg "An exemplary image")
 
 # Примеры
 ### demo1.html
