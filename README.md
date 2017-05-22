@@ -5,7 +5,7 @@
 # Установка
 Подключить скрипт из assets/scripts/stiky.js
 
-## Использоввание
+## Использование
 
 ```html
 <div data-he="one">Test header</div>
