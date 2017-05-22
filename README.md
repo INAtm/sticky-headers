@@ -1,2 +1,2 @@
-# sticky headers
+# Sticky headers
 Like sticky headers
