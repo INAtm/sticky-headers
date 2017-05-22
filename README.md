@@ -3,7 +3,8 @@
 Липкие панели на js
 
 ![example image](https://lh4.googleusercontent.com/ibvXAw3wOpL8Fg9p5QJin-PnSb09QK8fmjhVJrJrfQjo-kbB06dYzi8CuP-eFCSug8C-Le1I4a3UQlQ=w1366-h661 "An exemplary image")
-![example image](https://drive.google.com/open?id=0Bx_y-E2kyL4Db1FvNXB5bTQ0ZWc "An exemplary image")
+![example image](https://lh5.googleusercontent.com/7QCE5PK5wvZnd3R17KlmKjvyUBqU9RcBALtjGLB_xtcuUvqBthSsdS7L563a1rD4uCkD3ZuB6qBTMhE=w1366-h661 "An exemplary image")
+
 # Примеры
 ### demo1.html
 ### demo2.html
