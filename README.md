@@ -1,3 +1,4 @@
+
 # Липкие панели
 Липкие панели на js
 
@@ -10,6 +11,7 @@
 <div data-he="two">Test header</div>
 <div data-co="two">Test content</div>
 
+```javascript
 var options = {
   header: 'data-he', // Липкие панели
   content: 'data-co', // Контент
@@ -17,3 +19,4 @@ var options = {
   tspace: true // Добавлять ли высоту липкой панели к контенту (padding-top)
 };
 var sticky = new sinaz(options);
+```
