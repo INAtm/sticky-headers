@@ -61,9 +61,8 @@ var sinaz = function(option) {
   }
 
   this.headersMove = function(top, type) {
-    var self = this;
     var tSpace = this.option.tspace;
-    var activeClass = 'sticky-header--active';
+    var activeClass = this.option.activeClass;
     var headers = this.getHeaders();
     var contents = this.getContents();
 
