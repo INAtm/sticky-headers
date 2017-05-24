@@ -128,17 +128,17 @@ var sinaz = function(option) {
 
   this.scrollRun = function(type) {
     var self = this;
-    var lastScrollTop = 0;
+    var lastScroll = 0;
 
     var eScroll = function(ev) {
       var scrolled = window.pageYOffset || document.documentElement.scrollTop;
 
-      if (scrolled > lastScrollTop)
+      if (scrolled > lastScroll)
         self.headersMoveBottom(scrolled);
       else
         self.headersMoveTop(scrolled);
 
-      lastScrollTop = scrolled;
+      lastScroll = scrolled;
     };
 
     if (type == 'start')
