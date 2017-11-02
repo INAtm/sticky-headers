@@ -2,8 +2,8 @@
 # Липкие панели
 Липкие панели на js
 
-![](https://lh5.googleusercontent.com/7QCE5PK5wvZnd3R17KlmKjvyUBqU9RcBALtjGLB_xtcuUvqBthSsdS7L563a1rD4uCkD3ZuB6qBTMhE=w1366-h661)
-![](https://lh4.googleusercontent.com/ibvXAw3wOpL8Fg9p5QJin-PnSb09QK8fmjhVJrJrfQjo-kbB06dYzi8CuP-eFCSug8C-Le1I4a3UQlQ=w1366-h661)
+[![https://gyazo.com/d781d851b2eb79f39dcf2691beda3e0a](https://i.gyazo.com/d781d851b2eb79f39dcf2691beda3e0a.png)](https://gyazo.com/d781d851b2eb79f39dcf2691beda3e0a)
+[![https://gyazo.com/c6ae112484482bce2467770f631139b2](https://i.gyazo.com/c6ae112484482bce2467770f631139b2.png)](https://gyazo.com/c6ae112484482bce2467770f631139b2)
 
 # Примеры
 ### demo1.html
